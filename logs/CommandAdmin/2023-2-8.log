@@ -1,0 +1,69 @@
+[14 : 02 : 14] : Starting logger..
+[14 : 02 : 14] : 127.0.0.1 : test > Test > infos
+[14 : 02 : 29] : 127.0.0.1 : test > Test > ITEM 739 1 Test Max
+[14 : 02 : 29] : 127.0.0.1 : test > Test > ITEM 739 1 Test Max
+[14 : 02 : 29] : 127.0.0.1 : test > Test > ITEM 739 1 Test Max
+[14 : 02 : 31] : 127.0.0.1 : test > Test > ITEM 737 1 Test Max
+[14 : 02 : 31] : 127.0.0.1 : test > Test > ITEM 737 1 Test Max
+[14 : 02 : 31] : 127.0.0.1 : test > Test > ITEM 737 1 Test Max
+[14 : 02 : 31] : 127.0.0.1 : test > Test > ITEM 737 1 Test Max
+[14 : 02 : 32] : 127.0.0.1 : test > Test > ITEM 7114 1 Test Max
+[14 : 02 : 32] : 127.0.0.1 : test > Test > ITEM 7114 1 Test Max
+[14 : 02 : 32] : 127.0.0.1 : test > Test > ITEM 7114 1 Test Max
+[14 : 02 : 33] : 127.0.0.1 : test > Test > ITEM 7114 1 Test Max
+[14 : 02 : 33] : 127.0.0.1 : test > Test > ITEM 7115 1 Test Max
+[14 : 02 : 33] : 127.0.0.1 : test > Test > ITEM 7115 1 Test Max
+[14 : 02 : 34] : 127.0.0.1 : test > Test > ITEM 7115 1 Test Max
+[14 : 02 : 37] : 127.0.0.1 : test > Test > ITEM 7115 1 Max
+[14 : 02 : 39] : 127.0.0.1 : test > Test > ITEM 7114 1 Max
+[15 : 01 : 44] : Starting logger..
+[15 : 01 : 44] : 127.0.0.1 : test > Test > infos
+[15 : 01 : 57] : 127.0.0.1 : test > Test > endfight 1
+[21 : 47 : 43] : Starting logger..
+[21 : 47 : 43] : 127.0.0.1 : test > Test > infos
+[21 : 48 : 34] : 127.0.0.1 : test > Test > endfight 1
+[21 : 51 : 04] : Starting logger..
+[21 : 51 : 04] : 127.0.0.1 : test > Test > infos
+[21 : 52 : 26] : Starting logger..
+[21 : 52 : 26] : 127.0.0.1 : test > Test > infos
+[21 : 53 : 25] : Starting logger..
+[21 : 53 : 25] : 127.0.0.1 : test > Test > infos
+[21 : 54 : 26] : 127.0.0.1 : test > Test > ITEM 739 1 Test Max
+[21 : 54 : 32] : 127.0.0.1 : test > Test > ITEM 7754 1 Test Max
+[21 : 54 : 38] : 127.0.0.1 : test > Test > ITEM 7754 1 Max
+[21 : 54 : 40] : 127.0.0.1 : test > Test > ITEM 7754 1 Max
+[21 : 54 : 46] : 127.0.0.1 : test > Test > ITEM 739 1 Max
+[21 : 55 : 10] : 127.0.0.1 : test > Test > endfight 1
+[21 : 56 : 13] : 127.0.0.1 : test > Test > infos
+[21 : 57 : 27] : Starting logger..
+[21 : 57 : 27] : 127.0.0.1 : test > Test > infos
+[21 : 57 : 51] : 127.0.0.1 : test > Test > endfight 1
+[21 : 59 : 08] : 127.0.0.1 : test > Test > endfight 1
+[21 : 59 : 35] : 127.0.0.1 : test > Test > infos
+[21 : 59 : 51] : 127.0.0.1 : test > Test > endfight 1
+[22 : 00 : 15] : 127.0.0.1 : test > Test > endfight 1
+[22 : 00 : 41] : 127.0.0.1 : test > Test > endfight 1
+[22 : 00 : 56] : 127.0.0.1 : test > Test > endfight 1
+[22 : 01 : 15] : 127.0.0.1 : test > Test > endfight 1
+[22 : 01 : 29] : 127.0.0.1 : test > Test > endfight 1
+[22 : 01 : 48] : 127.0.0.1 : test > Test > endfight 1
+[22 : 05 : 37] : 127.0.0.1 : test > Test > life 100
+[22 : 07 : 26] : Starting logger..
+[22 : 07 : 26] : 127.0.0.1 : test > Test > infos
+[22 : 16 : 06] : 127.0.0.1 : test > Test > infos
+[22 : 16 : 12] : 127.0.0.1 : test > Test > save
+[23 : 02 : 47] : 127.0.0.1 : test > Test > endfight 1
+[23 : 10 : 03] : 127.0.0.1 : test > Test > infos
+[23 : 14 : 19] : 127.0.0.1 : test > Test > infos
+[23 : 15 : 01] : 127.0.0.1 : test > Test > help npc
+[23 : 15 : 04] : 127.0.0.1 : test > Test > mapinfo
+[23 : 15 : 20] : 127.0.0.1 : test > Test > addnpcitem -1 120804
+[23 : 15 : 25] : 127.0.0.1 : test > Test > addnpcitem 416 120804
+[23 : 15 : 33] : 127.0.0.1 : test > Test > addnpcitem -1 120804
+[23 : 15 : 35] : 127.0.0.1 : test > Test > addnpcitem -1 12804
+[23 : 16 : 16] : 127.0.0.1 : test > Test > addnpc 1453
+[23 : 27 : 50] : Starting logger..
+[23 : 27 : 50] : 127.0.0.1 : test > Test > infos
+[23 : 55 : 14] : Starting logger..
+[23 : 55 : 14] : 127.0.0.1 : test > Test > infos
+[23 : 56 : 19] : 127.0.0.1 : test > Test > ITEM 16000 4000

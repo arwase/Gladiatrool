@@ -1,0 +1,220 @@
+[09 : 07 : 51] : Starting logger..
+[09 : 07 : 51] : 127.0.0.1 : test > Test > infos
+[09 : 11 : 33] : 127.0.0.1 : test > Test > infos
+[09 : 15 : 30] : 127.0.0.1 : test > Test > tp 12277 255
+[09 : 18 : 22] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 22] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 23] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 24] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 24] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 24] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[09 : 18 : 31] : 127.0.0.1 : test > Test > ITEM 12804 5 Max
+[09 : 18 : 36] : 127.0.0.1 : test > Test > ITEM 12804 5 Max
+[09 : 18 : 36] : 127.0.0.1 : test > Test > ITEM 12804 5 Max
+[09 : 18 : 37] : 127.0.0.1 : test > Test > ITEM 12804 5 Max
+[09 : 18 : 37] : 127.0.0.1 : test > Test > ITEM 12804 5 Max
+[09 : 18 : 41] : 127.0.0.1 : test > Test > ITEM 12804 5 Test
+[09 : 21 : 08] : 127.0.0.1 : test > Test > ITEM 12786 1 Test Max
+[09 : 21 : 10] : 127.0.0.1 : test > Test > ITEM 12786 1 Max
+[09 : 22 : 49] : 127.0.0.1 : test > Test > tp 12277 255
+[09 : 25 : 52] : 127.0.0.1 : test > Test > ITEM 12803 1 Test Max
+[09 : 25 : 53] : 127.0.0.1 : test > Test > ITEM 12802 1 Test Max
+[09 : 25 : 58] : 127.0.0.1 : test > Test > ITEM 12802 1 Test Max
+[09 : 25 : 58] : 127.0.0.1 : test > Test > ITEM 12802 1 Test Max
+[09 : 26 : 00] : 127.0.0.1 : test > Test > ITEM 12803 1 Test Max
+[09 : 26 : 00] : 127.0.0.1 : test > Test > ITEM 12803 1 Test Max
+[09 : 26 : 07] : 127.0.0.1 : test > Test > ITEM 12803 1 Max
+[09 : 26 : 21] : 127.0.0.1 : test > Test > ITEM 12802 1 Max
+[09 : 26 : 43] : 127.0.0.1 : test > Test > ITEM 12802 1 Max
+[09 : 27 : 44] : 127.0.0.1 : test > Test > tp 12277 255
+[09 : 59 : 05] : Starting logger..
+[09 : 59 : 05] : 127.0.0.1 : test > Test > infos
+[09 : 59 : 07] : 127.0.0.1 : test > Test > tp 12277 255
+[10 : 06 : 47] : Starting logger..
+[10 : 06 : 47] : 127.0.0.1 : test > Test > infos
+[10 : 06 : 51] : 127.0.0.1 : test > Test > tp 12277 255
+[10 : 16 : 57] : Starting logger..
+[10 : 16 : 57] : 127.0.0.1 : test > Test > infos
+[10 : 18 : 40] : 127.0.0.1 : test > Test > unmorph
+[10 : 18 : 44] : 127.0.0.1 : test > Test > help morph
+[10 : 18 : 53] : 127.0.0.1 : test > Test > demorphall
+[10 : 19 : 00] : 127.0.0.1 : test > Test > UNFULLMORPH
+[10 : 44 : 59] : 127.0.0.1 : test > Test > tp 15008
+[10 : 45 : 02] : 127.0.0.1 : test > Test > tp 15008 255
+[10 : 58 : 41] : Starting logger..
+[10 : 58 : 41] : 127.0.0.1 : test > Test > infos
+[11 : 00 : 25] : Starting logger..
+[11 : 00 : 25] : 127.0.0.1 : test > Test > infos
+[11 : 35 : 53] : Starting logger..
+[11 : 35 : 53] : 127.0.0.1 : test > Test > infos
+[11 : 36 : 05] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[11 : 36 : 05] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[11 : 36 : 09] : 127.0.0.1 : test > Test > ITEM 12804 5
+[11 : 38 : 13] : Starting logger..
+[11 : 38 : 13] : 127.0.0.1 : test > Test > infos
+[12 : 12 : 01] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~41~6e#0#64##100d0+0,6f#0#1##1d0+0,80#0#1##1d0+0,99#0#32##50d0+0,9c#0#90##144d0+0,76#0#73##115d0+0,7e#0#12c##300d0+0,7b#0#3c##60d0+0,77#0#3c##60d0+0,70#0#5##5d0+0,8a#0#32##50d0+0,74#0#1##1d0+0,b6#0#1##1d0+0,af#0#46##70d0+0,d2#0#5##5d0+0,d5#0#5##5d0+0,d3#0#5##5d0+0,d4#0#5##5d0+0,d6#0#5##5d0+0,f8#0#3##3d0+0,f7#0#3##3d0+0,fa#0#5##5d0+0,fd#0#5##5d0+0,fb#0#5##5d0+0,fc#0#5##5d0+0,fe#0#5##5d0+0;
+[12 : 12 : 16] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~41~6e#0#64##100d0+0;
+[12 : 30 : 11] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~42~6e#0#64##100d0+0;
+[12 : 30 : 14] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~43~6e#0#64##100d0+0;
+[12 : 30 : 17] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~39~6e#0#64##100d0+0;
+[12 : 30 : 20] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~22~6e#0#64##100d0+0;
+[12 : 30 : 23] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~21~6e#0#64##100d0+0;
+[12 : 30 : 43] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~25~6e#0#64##100d0+0;
+[12 : 30 : 47] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~25~6e#0#64##100d0+0;
+[12 : 30 : 50] : 127.0.0.1 : test > Test > SEND OAKOb268b4f~3f8c~1~25~6e#0#64##100d0+0
+[12 : 36 : 57] : 127.0.0.1 : test > Test > wr16004;16008,16003,16007,16006,16009,16012;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1|16017;16013,16021,16015,16020,16018,16023;844#0###0d0+0,7d#fa###0d0+250|2|10;20;40;60;90;120;160;200;250;300
+[12 : 37 : 03] : 127.0.0.1 : test > Test > send wr16004;16008,16003,16007,16006,16009,16012;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1|16017;16013,16021,16015,16020,16018,16023;844#0###0d0+0,7d#fa###0d0+250|2|10;20;40;60;90;120;160;200;250;300
+[12 : 37 : 25] : 127.0.0.1 : test > Test > send wr16004;16008,16003,16007,16006,16009,16012;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1|16017;16013,16021,16015,16020,16018,16023;844#0###0d0+0,7d#fa###0d0+250|2|10;20;40;60;90;120;160;200;250;300
+[12 : 41 : 03] : 127.0.0.1 : test > Test > send wr16004;16008,16003,16007,16006,16009,16012;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1|16017;16013,16021,16015,16020,16018,16023;844#0###0d0+0,7d#fa###0d0+250|2|10;20;40;60;90;120;160;200;250;300
+[13 : 30 : 13] : Starting logger..
+[13 : 30 : 13] : 127.0.0.1 : test > Test > infos
+[13 : 36 : 50] : Starting logger..
+[13 : 36 : 50] : 127.0.0.1 : test > Test > infos
+[13 : 37 : 57] : Starting logger..
+[13 : 37 : 57] : 127.0.0.1 : test > Test > infos
+[13 : 52 : 28] : Starting logger..
+[13 : 52 : 28] : 127.0.0.1 : test > Test > infos
+[14 : 01 : 35] : Starting logger..
+[14 : 01 : 35] : 127.0.0.1 : test > Test > infos
+[14 : 08 : 24] : Starting logger..
+[14 : 08 : 24] : 127.0.0.1 : test > Test > infos
+[14 : 09 : 25] : 127.0.0.1 : test > Test > panel_admin
+[14 : 09 : 50] : Starting logger..
+[14 : 09 : 50] : 127.0.0.1 : test > Test > infos
+[14 : 45 : 48] : Starting logger..
+[14 : 45 : 48] : 127.0.0.1 : test > Test > infos
+[14 : 56 : 15] : Starting logger..
+[14 : 56 : 15] : 127.0.0.1 : test > Test > infos
+[14 : 59 : 31] : Starting logger..
+[14 : 59 : 31] : 127.0.0.1 : test > Test > infos
+[15 : 02 : 52] : Starting logger..
+[15 : 02 : 52] : 127.0.0.1 : test > Test > infos
+[15 : 25 : 19] : Starting logger..
+[15 : 25 : 19] : 127.0.0.1 : test > Test > infos
+[15 : 28 : 15] : Starting logger..
+[15 : 28 : 15] : 127.0.0.1 : test > Test > infos
+[16 : 33 : 57] : Starting logger..
+[16 : 33 : 57] : 127.0.0.1 : test > Test > infos
+[16 : 38 : 13] : Starting logger..
+[16 : 38 : 13] : 127.0.0.1 : test > Test > infos
+[16 : 40 : 44] : Starting logger..
+[16 : 40 : 44] : 127.0.0.1 : test > Test > infos
+[16 : 49 : 58] : Starting logger..
+[16 : 49 : 58] : 127.0.0.1 : test > Test > infos
+[16 : 54 : 37] : 127.0.0.1 : test > Test > infos
+[16 : 58 : 30] : Starting logger..
+[16 : 58 : 30] : 127.0.0.1 : test > Test > infos
+[17 : 03 : 40] : Starting logger..
+[17 : 03 : 40] : 127.0.0.1 : test > Test > infos
+[17 : 13 : 15] : Starting logger..
+[17 : 13 : 15] : 127.0.0.1 : test > Test > infos
+[17 : 18 : 53] : Starting logger..
+[17 : 18 : 53] : 127.0.0.1 : test > Test > infos
+[17 : 22 : 50] : Starting logger..
+[17 : 22 : 50] : 127.0.0.1 : test > Test > infos
+[17 : 27 : 09] : Starting logger..
+[17 : 27 : 09] : 127.0.0.1 : test > Test > infos
+[17 : 27 : 52] : Starting logger..
+[17 : 27 : 52] : 127.0.0.1 : test > Test > infos
+[17 : 29 : 54] : Starting logger..
+[17 : 29 : 54] : 127.0.0.1 : test > Test > infos
+[17 : 32 : 05] : Starting logger..
+[17 : 32 : 05] : 127.0.0.1 : test > Test > infos
+[17 : 34 : 18] : Starting logger..
+[17 : 34 : 18] : 127.0.0.1 : test > Test > infos
+[17 : 48 : 30] : Starting logger..
+[17 : 48 : 30] : 127.0.0.1 : test > Test > infos
+[17 : 55 : 51] : Starting logger..
+[17 : 55 : 51] : 127.0.0.1 : test > Test > infos
+[18 : 06 : 05] : Starting logger..
+[18 : 06 : 05] : 127.0.0.1 : test > Test > infos
+[18 : 11 : 28] : Starting logger..
+[18 : 11 : 28] : 127.0.0.1 : test > Test > infos
+[18 : 16 : 55] : Starting logger..
+[18 : 16 : 55] : 127.0.0.1 : test > Test > infos
+[18 : 26 : 02] : Starting logger..
+[18 : 26 : 02] : 127.0.0.1 : test > Test > infos
+[18 : 29 : 08] : Starting logger..
+[18 : 29 : 08] : 127.0.0.1 : test > Test > infos
+[18 : 42 : 39] : 127.0.0.1 : test > Test > help addpnc
+[18 : 42 : 43] : 127.0.0.1 : test > Test > help npc
+[18 : 42 : 53] : 127.0.0.1 : test > Test > addpnc 405
+[18 : 42 : 59] : 127.0.0.1 : test > Test > addnpc 405
+[18 : 54 : 34] : 127.0.0.1 : test > Test > ITEM 10563 1 Test Max
+[18 : 55 : 33] : 127.0.0.1 : test > Test > ITEM 10563 1 Max
+[18 : 56 : 06] : 127.0.0.1 : test > Test > tp 12277 255
+[19 : 11 : 23] : Starting logger..
+[19 : 11 : 23] : 127.0.0.1 : test > Test > infos
+[19 : 42 : 14] : Starting logger..
+[19 : 42 : 14] : 127.0.0.1 : test > Test > infos
+[19 : 44 : 09] : Starting logger..
+[19 : 44 : 09] : 127.0.0.1 : test > Test > infos
+[19 : 52 : 19] : 127.0.0.1 : test > Test > tp 9750
+[19 : 52 : 24] : 127.0.0.1 : test > Test > tp 9750 351
+[19 : 52 : 37] : 127.0.0.1 : test > Test > tp 15008 255
+[19 : 53 : 35] : 127.0.0.1 : test > Test > tp 9470 255
+[19 : 54 : 36] : Starting logger..
+[19 : 54 : 36] : 127.0.0.1 : test > Test > infos
+[19 : 54 : 45] : 127.0.0.1 : test > Test > tp 12777
+[19 : 54 : 48] : 127.0.0.1 : test > Test > tp 12777 255
+[19 : 54 : 51] : 127.0.0.1 : test > Test > tp 12277 255
+[19 : 55 : 22] : Starting logger..
+[19 : 55 : 22] : 127.0.0.1 : test > Test > infos
+[19 : 55 : 24] : 127.0.0.1 : test > Test > tp 12277 255
+[19 : 59 : 47] : 127.0.0.1 : test > Test > tp 12277
+[19 : 59 : 49] : 127.0.0.1 : test > Test > tp 12277 255
+[19 : 59 : 59] : 127.0.0.1 : test > Test > tp 12277 255
+[20 : 28 : 43] : 127.0.0.1 : test > Test > tp 12277 255
+[20 : 30 : 27] : Starting logger..
+[20 : 30 : 27] : 127.0.0.1 : test > Test > infos
+[20 : 33 : 04] : Starting logger..
+[20 : 33 : 04] : 127.0.0.1 : test > Test > infos
+[20 : 37 : 54] : Starting logger..
+[20 : 37 : 54] : 127.0.0.1 : test > Test > infos
+[20 : 42 : 16] : 127.0.0.1 : test > Test > tp 10332
+[20 : 42 : 18] : 127.0.0.1 : test > Test > tp 10332 255
+[20 : 42 : 29] : 127.0.0.1 : test > Test > tp 6826 255
+[20 : 42 : 42] : 127.0.0.1 : test > Test > tp 6826 255
+[20 : 43 : 22] : 127.0.0.1 : test > Test > tp 7388 255
+[20 : 53 : 11] : Starting logger..
+[20 : 53 : 11] : 127.0.0.1 : test > Test > infos
+[20 : 53 : 16] : 127.0.0.1 : test > Test > tp 12277 255
+[20 : 54 : 15] : 127.0.0.1 : test > Test > infos
+[20 : 54 : 25] : 127.0.0.1 : test > Test > endfight 1
+[20 : 55 : 19] : 127.0.0.1 : test > Test > endfight 1
+[20 : 58 : 08] : Starting logger..
+[20 : 58 : 08] : 127.0.0.1 : test > Test > infos
+[21 : 00 : 25] : 127.0.0.1 : test > Test > infos
+[21 : 00 : 28] : 127.0.0.1 : test > Test > endfight 1
+[21 : 48 : 01] : 127.0.0.1 : test > Test > tp 12277
+[21 : 48 : 03] : 127.0.0.1 : test > Test > tp 12277 255
+[21 : 49 : 21] : 127.0.0.1 : test > Test > infos
+[21 : 49 : 29] : 127.0.0.1 : test > Test > infos
+[21 : 52 : 34] : 127.0.0.1 : test > Test > tp 12277 255
+[22 : 32 : 32] : Starting logger..
+[22 : 32 : 32] : 127.0.0.1 : test > Test > infos
+[22 : 34 : 38] : 127.0.0.1 : test > Test > infos
+[22 : 34 : 49] : 127.0.0.1 : test > Test > endfight 1
+[22 : 37 : 10] : Starting logger..
+[22 : 37 : 10] : 127.0.0.1 : test > Test > infos
+[22 : 37 : 25] : 127.0.0.1 : test > Test > endfight 1
+[22 : 37 : 35] : 127.0.0.1 : test > Test > tp 12277 255
+[22 : 40 : 07] : 127.0.0.1 : test > Test > endfight 1
+[22 : 40 : 30] : 127.0.0.1 : test > Test > infos
+[22 : 49 : 12] : 127.0.0.1 : test > Test > endfight 1
+[22 : 52 : 11] : 127.0.0.1 : test > Test > send wr16012;16008,16007,16006,16009,16002,16005;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1,d6#1###0d0+1|16013;16020,16019,16014,16022,16021,16017;844#0###0d0+0,7d#fa###0d0+250,7c#32###0d0+50,76#32###0d0+50,7e#32###0d0+50,7b#32###0d0+50,77#32###0d0+50,70#3###0d0+3,8a#1e###0d0+30,b2#5###0d0+5,73#3###0d0+3,d2#1###0d0+1,d5#1###0d0+1,d3#1###0d0+1,d4#1###0d0+1,d6#1###0d0+1|16188;16026,16201,16206,16202,16191,16198;844#0###0d0+0|2|10;20;40;60;90;120;160;200;250;300
+[23 : 06 : 49] : Starting logger..
+[23 : 06 : 49] : 127.0.0.1 : test > Test > infos
+[23 : 07 : 07] : 127.0.0.1 : test > Test > endfight 1
+[23 : 10 : 06] : Starting logger..
+[23 : 10 : 06] : 127.0.0.1 : test > Test > infos
+[23 : 10 : 17] : 127.0.0.1 : test > Test > endfight 1
+[23 : 22 : 39] : Starting logger..
+[23 : 22 : 39] : 127.0.0.1 : test > Test > infos
+[23 : 22 : 53] : 127.0.0.1 : test > Test > endfight 1
+[23 : 38 : 09] : Starting logger..
+[23 : 38 : 09] : 127.0.0.1 : test > Test > infos
+[23 : 38 : 39] : 127.0.0.1 : test > Test > endfight 1
+[23 : 45 : 06] : 127.0.0.1 : test > Test > infos
+[23 : 45 : 24] : 127.0.0.1 : test > Test > endfight 1
+[23 : 46 : 44] : 127.0.0.1 : test > Test > endfight 1

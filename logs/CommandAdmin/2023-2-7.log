@@ -1,0 +1,238 @@
+[11 : 25 : 02] : Starting logger..
+[11 : 25 : 02] : 127.0.0.1 : test > Test > infos
+[11 : 25 : 41] : 127.0.0.1 : test > Test > panel_admin
+[11 : 25 : 51] : 127.0.0.1 : test > Test > help mon
+[11 : 25 : 53] : 127.0.0.1 : test > Test > help mob
+[11 : 27 : 25] : Starting logger..
+[11 : 27 : 25] : 127.0.0.1 : test > Test > infos
+[11 : 30 : 08] : Starting logger..
+[11 : 30 : 08] : 127.0.0.1 : test > Test > infos
+[11 : 30 : 30] : 127.0.0.1 : test > Test > endfight 1
+[11 : 44 : 13] : 127.0.0.1 : test > Test > endfight 1
+[11 : 44 : 51] : 127.0.0.1 : test > Test > save
+[11 : 44 : 52] : 127.0.0.1 : test > Test > exirt
+[11 : 44 : 59] : 127.0.0.1 : test > Test > exit
+[11 : 45 : 32] : Starting logger..
+[11 : 45 : 32] : 127.0.0.1 : test > Test > infos
+[11 : 45 : 45] : 127.0.0.1 : test > Test > endfight 1
+[11 : 46 : 09] : 127.0.0.1 : test > Test > endfight 1
+[11 : 46 : 35] : 127.0.0.1 : test > Test > endfight 1
+[11 : 48 : 20] : Starting logger..
+[11 : 48 : 20] : 127.0.0.1 : test > Test > infos
+[11 : 48 : 36] : 127.0.0.1 : test > Test > endfight 1
+[11 : 48 : 51] : 127.0.0.1 : test > Test > endfight 1
+[11 : 49 : 14] : 127.0.0.1 : test > Test > endfight 1
+[11 : 49 : 59] : 127.0.0.1 : test > Test > endfight 1
+[11 : 57 : 04] : 127.0.0.1 : test > Test > save
+[11 : 57 : 06] : 127.0.0.1 : test > Test > exit
+[11 : 57 : 20] : Starting logger..
+[11 : 57 : 20] : 127.0.0.1 : test > Test > infos
+[12 : 01 : 34] : Starting logger..
+[12 : 01 : 34] : 127.0.0.1 : test > Test > infos
+[12 : 02 : 57] : 127.0.0.1 : test > Test > ITEM 12804 1 Test Max
+[12 : 03 : 03] : 127.0.0.1 : test > Test > ITEM 12804 1 Max
+[12 : 04 : 28] : 127.0.0.1 : test > Test > endfight 1
+[12 : 04 : 55] : 127.0.0.1 : test > Test > endfight 1
+[12 : 05 : 08] : 127.0.0.1 : test > Test > endfight 1
+[12 : 05 : 33] : 127.0.0.1 : test > Test > endfight 1
+[12 : 05 : 52] : 127.0.0.1 : test > Test > endfight 1
+[12 : 06 : 14] : 127.0.0.1 : test > Test > endfight 1
+[12 : 06 : 48] : 127.0.0.1 : test > Test > endfight 1
+[12 : 10 : 00] : Starting logger..
+[12 : 10 : 00] : 127.0.0.1 : test > Test > infos
+[12 : 10 : 18] : 127.0.0.1 : test > Test > endfight 1
+[12 : 10 : 37] : 127.0.0.1 : test > Test > endfight 1
+[12 : 10 : 55] : 127.0.0.1 : test > Test > endfight 1
+[12 : 16 : 22] : Starting logger..
+[12 : 16 : 22] : 127.0.0.1 : test > Test > infos
+[12 : 16 : 58] : 127.0.0.1 : test > Test > ITEM 12804 10 Max
+[12 : 17 : 24] : 127.0.0.1 : test > Test > infos
+[12 : 24 : 12] : 127.0.0.1 : test > Test > ITEM 12804 10 Max
+[12 : 28 : 44] : 127.0.0.1 : test > Test > endfight 1
+[12 : 29 : 02] : 127.0.0.1 : test > Test > endfight 1
+[12 : 29 : 31] : 127.0.0.1 : test > Test > endfight 1
+[12 : 30 : 13] : 127.0.0.1 : test > Test > endfight 1
+[12 : 37 : 08] : 127.0.0.1 : test > Test > endfight 1
+[12 : 37 : 28] : 127.0.0.1 : test > Test > endfight 1
+[12 : 37 : 47] : 127.0.0.1 : test > Test > endfight 1
+[12 : 40 : 23] : 127.0.0.1 : test > Test > endfight 1
+[13 : 01 : 34] : Starting logger..
+[13 : 01 : 34] : 127.0.0.1 : test > Test > infos
+[13 : 01 : 38] : 127.0.0.1 : test > Test > ITEM 12804 10
+[13 : 26 : 15] : Starting logger..
+[13 : 26 : 15] : 127.0.0.1 : test > Test > infos
+[13 : 33 : 23] : Starting logger..
+[13 : 33 : 23] : 127.0.0.1 : test > Test > infos
+[13 : 46 : 21] : 127.0.0.1 : test > Test > ITEM 12804 10
+[13 : 46 : 23] : 127.0.0.1 : test > Test > endfight 1
+[14 : 00 : 54] : Starting logger..
+[14 : 00 : 54] : 127.0.0.1 : test > Test > infos
+[14 : 01 : 07] : 127.0.0.1 : test > Test > endfight 1
+[14 : 01 : 31] : 127.0.0.1 : test > Test > endfight 1
+[14 : 01 : 56] : 127.0.0.1 : test > Test > endfight 1
+[14 : 02 : 08] : 127.0.0.1 : test > Test > endfight 1
+[14 : 02 : 35] : 127.0.0.1 : test > Test > endfight 1
+[14 : 03 : 42] : Starting logger..
+[14 : 03 : 42] : 127.0.0.1 : test > Test > infos
+[14 : 03 : 54] : 127.0.0.1 : test > Test > endfight 1
+[14 : 04 : 25] : 127.0.0.1 : test > Test > endfight 1
+[14 : 04 : 55] : 127.0.0.1 : test > Test > endfight 1
+[14 : 05 : 19] : 127.0.0.1 : test > Test > endfight 1
+[14 : 05 : 34] : 127.0.0.1 : test > Test > endfight 1
+[14 : 05 : 50] : 127.0.0.1 : test > Test > endfight 1
+[14 : 12 : 03] : Starting logger..
+[14 : 12 : 03] : 127.0.0.1 : test > Test > infos
+[14 : 15 : 56] : 127.0.0.1 : test > Test > endfight 1
+[14 : 24 : 53] : Starting logger..
+[14 : 24 : 53] : 127.0.0.1 : test > Test > infos
+[14 : 24 : 57] : 127.0.0.1 : test > Test > life 100
+[14 : 26 : 29] : Starting logger..
+[14 : 26 : 29] : 127.0.0.1 : test > Test > infos
+[14 : 31 : 10] : Starting logger..
+[14 : 31 : 10] : 127.0.0.1 : test > Test > infos
+[14 : 32 : 34] : 127.0.0.1 : test > Test > endfight 1
+[14 : 49 : 16] : Starting logger..
+[14 : 49 : 16] : 127.0.0.1 : test > Test > infos
+[14 : 52 : 31] : Starting logger..
+[14 : 52 : 31] : 127.0.0.1 : test > Test > infos
+[15 : 05 : 22] : Starting logger..
+[15 : 05 : 22] : 127.0.0.1 : test > Test > infos
+[15 : 10 : 07] : Starting logger..
+[15 : 10 : 07] : 127.0.0.1 : test > Test > infos
+[15 : 11 : 20] : Starting logger..
+[15 : 11 : 20] : 127.0.0.1 : test > Test > infos
+[15 : 13 : 16] : Starting logger..
+[15 : 13 : 16] : 127.0.0.1 : test > Test > infos
+[15 : 15 : 48] : Starting logger..
+[15 : 15 : 48] : 127.0.0.1 : test > Test > infos
+[15 : 20 : 03] : Starting logger..
+[15 : 20 : 03] : 127.0.0.1 : test > Test > infos
+[15 : 20 : 58] : Starting logger..
+[15 : 20 : 58] : 127.0.0.1 : test > Test > infos
+[15 : 21 : 42] : Starting logger..
+[15 : 21 : 42] : 127.0.0.1 : test > Test > infos
+[15 : 26 : 13] : Starting logger..
+[15 : 26 : 13] : 127.0.0.1 : test > Test > infos
+[15 : 40 : 37] : Starting logger..
+[15 : 40 : 37] : 127.0.0.1 : test > Test > infos
+[15 : 41 : 54] : Starting logger..
+[15 : 41 : 54] : 127.0.0.1 : test > Test > infos
+[15 : 42 : 14] : 127.0.0.1 : test > Test > endfight 1
+[15 : 44 : 50] : Starting logger..
+[15 : 44 : 50] : 127.0.0.1 : test > Test > infos
+[15 : 45 : 07] : 127.0.0.1 : test > Test > endfight 1
+[15 : 47 : 47] : Starting logger..
+[15 : 47 : 47] : 127.0.0.1 : test > Test > infos
+[15 : 48 : 01] : 127.0.0.1 : test > Test > endfight 1
+[15 : 51 : 31] : Starting logger..
+[15 : 51 : 31] : 127.0.0.1 : test > Test > infos
+[15 : 51 : 51] : 127.0.0.1 : test > Test > endfight 1
+[15 : 52 : 58] : Starting logger..
+[15 : 52 : 58] : 127.0.0.1 : test > Test > infos
+[15 : 53 : 07] : 127.0.0.1 : test > Test > endfight 1
+[15 : 54 : 11] : Starting logger..
+[15 : 54 : 11] : 127.0.0.1 : test > Test > infos
+[15 : 54 : 17] : 127.0.0.1 : test > Test > endfight 1
+[16 : 02 : 47] : Starting logger..
+[16 : 02 : 47] : 127.0.0.1 : test > Test > infos
+[16 : 03 : 00] : 127.0.0.1 : test > Test > endfight 1
+[16 : 04 : 37] : Starting logger..
+[16 : 04 : 37] : 127.0.0.1 : test > Test > infos
+[16 : 04 : 45] : 127.0.0.1 : test > Test > endfight 1
+[16 : 10 : 28] : Starting logger..
+[16 : 10 : 28] : 127.0.0.1 : test > Test > infos
+[16 : 10 : 34] : 127.0.0.1 : test > Test > endfight 1
+[16 : 10 : 53] : 127.0.0.1 : test > Test > endfight 1
+[16 : 11 : 18] : 127.0.0.1 : test > Test > endfight 1
+[16 : 12 : 20] : Starting logger..
+[16 : 12 : 20] : 127.0.0.1 : test > Test > infos
+[16 : 12 : 27] : 127.0.0.1 : test > Test > endfight 1
+[16 : 20 : 04] : Starting logger..
+[16 : 20 : 04] : 127.0.0.1 : test > Test > infos
+[16 : 20 : 10] : 127.0.0.1 : test > Test > endfight 1
+[16 : 23 : 02] : Starting logger..
+[16 : 23 : 02] : 127.0.0.1 : test > Test > infos
+[16 : 23 : 08] : 127.0.0.1 : test > Test > endfight 1
+[16 : 33 : 50] : Starting logger..
+[16 : 33 : 50] : 127.0.0.1 : test > Test > infos
+[16 : 33 : 57] : 127.0.0.1 : test > Test > endfight 1
+[16 : 34 : 48] : Starting logger..
+[16 : 34 : 48] : 127.0.0.1 : test > Test > infos
+[16 : 34 : 53] : 127.0.0.1 : test > Test > endfight 1
+[16 : 37 : 17] : Starting logger..
+[16 : 37 : 17] : 127.0.0.1 : test > Test > infos
+[16 : 37 : 26] : 127.0.0.1 : test > Test > endfight 1
+[16 : 39 : 31] : Starting logger..
+[16 : 39 : 31] : 127.0.0.1 : test > Test > infos
+[16 : 39 : 37] : 127.0.0.1 : test > Test > endfight 1
+[16 : 40 : 00] : 127.0.0.1 : test > Test > endfight 1
+[16 : 40 : 19] : 127.0.0.1 : test > Test > endfight 1
+[16 : 40 : 42] : 127.0.0.1 : test > Test > endfight 1
+[16 : 56 : 23] : 127.0.0.1 : test > Test > infos
+[17 : 00 : 39] : Starting logger..
+[17 : 00 : 39] : 127.0.0.1 : test > Test > infos
+[17 : 00 : 49] : 127.0.0.1 : test > Test > endfight 1
+[17 : 06 : 31] : Starting logger..
+[17 : 06 : 31] : 127.0.0.1 : test > Test > infos
+[17 : 06 : 43] : 127.0.0.1 : test > Test > endfight 1
+[17 : 07 : 08] : 127.0.0.1 : test > Test > infos
+[17 : 07 : 21] : 127.0.0.1 : test > Test > endfight 1
+[17 : 07 : 38] : 127.0.0.1 : test > Test > endfight 1
+[17 : 20 : 07] : Starting logger..
+[17 : 20 : 07] : 127.0.0.1 : test > Test > infos
+[17 : 21 : 51] : Starting logger..
+[17 : 21 : 51] : 127.0.0.1 : test > Test > infos
+[17 : 24 : 11] : Starting logger..
+[17 : 24 : 11] : 127.0.0.1 : test > Test > infos
+[17 : 28 : 02] : Starting logger..
+[17 : 28 : 02] : 127.0.0.1 : test > Test > infos
+[18 : 14 : 54] : 127.0.0.1 : test > Test > life 100
+[18 : 32 : 55] : 127.0.0.1 : test > Test > Mapinfo
+[18 : 34 : 20] : 127.0.0.1 : test > Test > infos
+[18 : 34 : 48] : 127.0.0.1 : test > Test > infos
+[18 : 35 : 24] : 127.0.0.1 : test > Test > infos
+[18 : 35 : 48] : 127.0.0.1 : test > Test > mapinfo
+[19 : 11 : 05] : 127.0.0.1 : test > Test > endfight 1
+[19 : 11 : 12] : 127.0.0.1 : test > Test > endfight 1
+[19 : 11 : 21] : 127.0.0.1 : test > Test > mapinfo
+[19 : 24 : 47] : Starting logger..
+[19 : 24 : 47] : 127.0.0.1 : test > Test > infos
+[19 : 27 : 11] : Starting logger..
+[19 : 27 : 11] : 127.0.0.1 : test > Test > infos
+[19 : 27 : 24] : 127.0.0.1 : test > Test > help npc
+[19 : 27 : 29] : 127.0.0.1 : test > Test > addnpc 405
+[19 : 31 : 01] : Starting logger..
+[19 : 31 : 01] : 127.0.0.1 : test > Test > infos
+[19 : 31 : 35] : 127.0.0.1 : test > Test > endfight 1
+[19 : 31 : 50] : 127.0.0.1 : test > Test > addnpc 405
+[19 : 32 : 20] : 127.0.0.1 : test > Test > infos
+[19 : 39 : 25] : Starting logger..
+[19 : 39 : 25] : 127.0.0.1 : test > Test > infos
+[19 : 40 : 24] : Starting logger..
+[19 : 40 : 24] : 127.0.0.1 : test > Test > infos
+[19 : 40 : 38] : 127.0.0.1 : test > Test > endfight 1
+[19 : 41 : 03] : 127.0.0.1 : test > Test > endfight 1
+[19 : 41 : 19] : 127.0.0.1 : test > Test > endfight 1
+[19 : 41 : 41] : 127.0.0.1 : test > Test > endfight 1
+[19 : 41 : 59] : 127.0.0.1 : test > Test > endfight 1
+[19 : 42 : 16] : 127.0.0.1 : test > Test > endfight 1
+[19 : 42 : 34] : 127.0.0.1 : test > Test > endfight 1
+[19 : 42 : 58] : 127.0.0.1 : test > Test > endfight 1
+[19 : 43 : 18] : 127.0.0.1 : test > Test > endfight 1
+[19 : 43 : 36] : 127.0.0.1 : test > Test > endfight 1
+[19 : 44 : 58] : 127.0.0.1 : test > Test > save
+[19 : 45 : 02] : 127.0.0.1 : test > Test > exit
+[19 : 45 : 17] : Starting logger..
+[19 : 45 : 17] : 127.0.0.1 : test > Test > infos
+[19 : 46 : 54] : 127.0.0.1 : test > Test > endfight 1
+[19 : 47 : 27] : 127.0.0.1 : test > Test > endfight 1
+[19 : 47 : 47] : 127.0.0.1 : test > Test > endfight 1
+[19 : 48 : 18] : 127.0.0.1 : test > Test > endfight 1
+[19 : 48 : 36] : 127.0.0.1 : test > Test > endfight 1
+[19 : 48 : 55] : 127.0.0.1 : test > Test > endfight 1
+[19 : 49 : 50] : 127.0.0.1 : test > Test > endfight 1
+[19 : 50 : 12] : 127.0.0.1 : test > Test > endfight 1
+[19 : 50 : 43] : 127.0.0.1 : test > Test > endfight 1
+[19 : 51 : 04] : 127.0.0.1 : test > Test > endfight 1
+[21 : 26 : 05] : Starting logger..
+[21 : 26 : 05] : 127.0.0.1 : test > Test > infos

@@ -1,0 +1,6 @@
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at org.starloco.locos.entity.npc.NpcTemplate.<init>(NpcTemplate.java:65)
+	at org.starloco.locos.database.data.game.NpcTemplateData.loadFully(NpcTemplateData.java:46)
+	at org.starloco.locos.game.world.World.createWorld(World.java:367)
+	at org.starloco.locos.kernel.Main.start(Main.java:79)
+	at org.starloco.locos.kernel.Main.main(Main.java:65)

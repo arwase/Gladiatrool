@@ -1,0 +1,39 @@
+[20 : 34 : 31] : Starting logger..
+[20 : 34 : 31] : 127.0.0.1 : test > Test > infos
+[20 : 41 : 42] : Starting logger..
+[20 : 41 : 42] : 127.0.0.1 : test > Test > infos
+[20 : 42 : 09] : 127.0.0.1 : test > Test > endfight 1
+[20 : 56 : 10] : 127.0.0.1 : test > Test > endfight 1
+[21 : 08 : 41] : 127.0.0.1 : test > Test > infos
+[21 : 10 : 53] : 127.0.0.1 : test > Test > infos
+[21 : 11 : 00] : 127.0.0.1 : test > Test > tp 15072 255
+[21 : 11 : 39] : 127.0.0.1 : test > Test > infos
+[21 : 12 : 40] : 127.0.0.1 : test > Test > infos
+[21 : 15 : 12] : Starting logger..
+[21 : 15 : 12] : 127.0.0.1 : test > Test > infos
+[22 : 36 : 25] : 127.0.0.1 : test > Test > tp 15072 255
+[22 : 36 : 31] : 127.0.0.1 : test > Test > endfight 1
+[22 : 37 : 12] : 127.0.0.1 : test > Test > endfight 1
+[22 : 37 : 35] : 127.0.0.1 : test > Test > endfight 1
+[22 : 38 : 22] : 127.0.0.1 : test > Test > endfight 1
+[22 : 38 : 54] : 127.0.0.1 : test > Test > endfight 1
+[22 : 39 : 44] : 127.0.0.1 : test > Test > endfight 1
+[22 : 40 : 04] : 127.0.0.1 : test > Test > endfight 1
+[22 : 40 : 36] : 127.0.0.1 : test > Test > endfight 1
+[22 : 40 : 54] : 127.0.0.1 : test > Test > endfight 1
+[22 : 41 : 20] : 127.0.0.1 : test > Test > endfight 1
+[23 : 29 : 49] : 127.0.0.1 : test > Test > endfight 1
+[23 : 30 : 28] : 127.0.0.1 : test > Test > endfight 1
+[23 : 31 : 17] : 127.0.0.1 : test > Test > endfight 1
+[23 : 31 : 44] : 127.0.0.1 : test > Test > endfight 1
+[09 : 23 : 06] : 127.0.0.1 : test > Test > endfight 1
+[20 : 32 : 20] : 127.0.0.1 : test > Test > endfight 1
+[20 : 32 : 37] : 127.0.0.1 : test > Test > endfight 1
+[20 : 32 : 54] : 127.0.0.1 : test > Test > endfight 1
+[20 : 33 : 38] : 127.0.0.1 : test > Test > endfight 1
+[20 : 33 : 59] : 127.0.0.1 : test > Test > endfight 1
+[20 : 34 : 26] : 127.0.0.1 : test > Test > endfight 1
+[20 : 34 : 44] : 127.0.0.1 : test > Test > endfight 1
+[20 : 35 : 02] : 127.0.0.1 : test > Test > endfight 1
+[20 : 35 : 57] : 127.0.0.1 : test > Test > endfight 1
+[20 : 36 : 20] : 127.0.0.1 : test > Test > endfight 1
