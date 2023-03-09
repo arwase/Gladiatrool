@@ -454,8 +454,6 @@ public class Action {
                         SocketManager.GAME_SEND_ON_EQUIP_ITEM(player.getCurMap(), player);
                         ((ObjectData) DatabaseManager.get(ObjectData.class)).update(object);
 
-
-
                     int morphid = 0;
                     if (position == Constant.ITEM_POS_ARME) {
                         morphid = object.getTemplate().getId() - 12681;
@@ -877,6 +875,9 @@ public class Action {
                     int newCellID = Integer.parseInt(args.split(",")[1]);
                     int ObjetNeed = Integer.parseInt(args.split(",")[2]);
                     int MapNeed = Integer.parseInt(args.split(",")[3]);
+
+
+
                     if (ObjetNeed == 0) {
                         //T�l�portation sans objets
                         player.teleport(newMapID, newCellID);
@@ -890,9 +891,21 @@ public class Action {
                                 //Le perso a l'item
                                 //Le perso est sur la bonne map
                                 //On t�l�porte, on supprime apr�s
-                                player.teleport(newMapID, newCellID);
-                                player.removeByTemplateID(ObjetNeed, 1);
-                                SocketManager.GAME_SEND_Ow_PACKET(player);
+                                if(ObjetNeed == 12804){
+                                    if(Constant.isGladiatroolWeapon(player.getObjetByPos(Constant.ITEM_POS_ARME).getTemplate().getId())){
+                                        player.teleport(newMapID, newCellID);
+                                        player.removeByTemplateID(ObjetNeed, 1);
+                                        SocketManager.GAME_SEND_Ow_PACKET(player);
+                                    }
+                                    else{
+                                        SocketManager.GAME_SEND_MESSAGE(player, player.getLang().trans("other.action.apply.error.gladiatroll.join.cac"), "009900");
+                                    }
+                                }
+                                else {
+                                    player.teleport(newMapID, newCellID);
+                                    player.removeByTemplateID(ObjetNeed, 1);
+                                    SocketManager.GAME_SEND_Ow_PACKET(player);
+                                }
                             } else if (player.getCurMap().getId() != MapNeed) {
                                 //Le perso n'est pas sur la bonne map
                                 SocketManager.GAME_SEND_MESSAGE(player, player.getLang().trans("other.action.apply.dj.map"), "009900");
