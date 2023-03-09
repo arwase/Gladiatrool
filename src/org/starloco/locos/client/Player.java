@@ -3269,7 +3269,7 @@ public class Player {
 
         if(deleteGladiaWeapon) {
             if ( Constant.isGladiatroolWeapon(this.getObjetByPos(Constant.ITEM_POS_ARME).getTemplate().getId()) ) {
-                this.getGameClient().destroyObject("Od"+this.getObjetByPos(Constant.ITEM_POS_ARME).getGuid()+"|1");
+                this.removeByTemplateID(this.getObjetByPos(Constant.ITEM_POS_ARME).getTemplate().getId(),1);
                 for(int i=Constant.ITEM_POS_TONIQUE_EQUILIBRAGE;i<= Constant.ITEM_POS_TONIQUE9;i++){
                     this.removeTonique(i);
                 }

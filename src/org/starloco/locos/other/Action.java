@@ -404,7 +404,7 @@ public class Action {
                         ObjectTemplate exObjTpl = exObj.getTemplate();
 
                         if(Constant.isGladiatroolWeapon(exObjTpl.getId())) {
-                            player.getGameClient().destroyObject("Od"+player.getObjetByPos(Constant.ITEM_POS_ARME).getGuid()+"|1");
+                            player.removeByTemplateID(player.getObjetByPos(Constant.ITEM_POS_ARME).getTemplate().getId(),1);
                         }
                         else {
                             int idSetExObj = exObj.getTemplate().getPanoId();
