@@ -1315,7 +1315,53 @@ public class Action {
                     return true;
                 player.teleport((short) mapid, cellid);
                 break;
+            case 49: // Echange Gladiatroc
+                try {
+                    int tID = Integer.parseInt(args.split(",")[0]);
+                    int count = Integer.parseInt(args.split(",")[1]);
+                    int tMoney = Integer.parseInt(args.split(",")[2]);
+                    int price = Integer.parseInt(args.split(",")[3]);
 
+                    if (!player.hasItemTemplate(tMoney,price,false)) {
+                        SocketManager.GAME_SEND_BUY_ERROR_PACKET(player.getGameClient());
+                        return false;
+                    }
+                    player.removeByTemplateID(tMoney,price);
+                    SocketManager.GAME_SEND_Im_PACKET(player, "022;" + price + "~" + tMoney);
+
+                    boolean send = true;
+
+                    //Si on ajoute
+                    if (count > 0) {
+                        ObjectTemplate T = World.world.getObjTemplate(tID);
+                        if (T == null)
+                            return true;
+                        GameObject O = T.createNewItem(count, false);
+                        //Si retourne true, on l'ajoute au monde
+                        if (player.addObjet(O, true))
+                            World.world.addGameObject(O);
+                    } else {
+                        player.removeByTemplateID(tID, -count);
+                    }
+                    //Si en ligne (normalement oui)
+                    if (player.isOnline())//on envoie le packet qui indique l'ajout//retrait d'un item
+                    {
+                        SocketManager.GAME_SEND_Ow_PACKET(player);
+                        if (send) {
+                            if (count >= 0) {
+                                SocketManager.GAME_SEND_Im_PACKET(player, "021;"
+                                        + count + "~" + tID);
+                            } else if (count < 0) {
+                                SocketManager.GAME_SEND_Im_PACKET(player, "022;"
+                                        + -count + "~" + tID);
+                            }
+                        }
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                    GameServer.a();
+                }
+                break;
             case 50: //Traque
                 if (player.getAlignment() == 0 || player.getAlignment() == 3)
                     return true;

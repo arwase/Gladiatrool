@@ -3,6 +3,7 @@ package org.starloco.locos.kernel;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Random;
 
 import org.apache.commons.lang.ArrayUtils;
 import org.starloco.locos.area.map.GameCase;
@@ -2286,6 +2287,16 @@ public class Constant {
                 stats.addOneStat(STATS_ADD_RP_FEU, lvl / 20);
                 stats.addOneStat(STATS_ADD_RP_NEU, lvl / 20);
                 break;
+            //Tabi
+            case 90:
+                stats.addOneStat(STATS_ADD_PERDOM, lvl / 2);
+                stats.addOneStat(STATS_ADD_PA, lvl / 100);
+                break;
+            //Karnage
+            case 91:
+                stats.addOneStat(STATS_ADD_DOMA, lvl / 10);
+                stats.addOneStat(STATS_ADD_PM, lvl / 100);
+                break;
         }
         return stats;
     }
@@ -2505,6 +2516,16 @@ public class Constant {
             //Armure
             case 88:
                 return World.world.getObjTemplate(9582);
+            //Dragodinde du Paladin
+            case 89:
+                return World.world.getObjTemplate(12776);
+            //Tabi
+            case 90:
+                return World.world.getObjTemplate(12780);
+            //Karnage
+            case 91:
+                return World.world.getObjTemplate(12827);
+
         }
         return null;
     }
@@ -3923,6 +3944,26 @@ public class Constant {
 
     public static final int[] TONIQUE1 = {16002,16003,16004,16005,16006,16007,16008,16009,16010,16011,16012};
     public static final int[] TONIQUE2 = {16013,16014,16015,16016,16017,16018,16019,16020,16021,16022,16023};
+
+    public static Integer getRandomGemmesSpritiuels() {
+        ArrayList<Integer> gemmespi = new ArrayList<Integer>();
+
+        for(int i= 10227; i<=10270;i++){
+            gemmespi.add(i);
+        }
+        gemmespi.add(10278);
+        gemmespi.add(10606);
+        gemmespi.add(11567);
+        gemmespi.add(11568);
+
+        Random rand = new Random();
+        int randomIndex = rand.nextInt(gemmespi.size());
+        int randomNum = gemmespi.get(randomIndex);
+
+        return randomNum;
+    }
+
+
 
     public static int[] getToniques3byclasse(int classeid) {
         int[] tonique3 = new int[]{};

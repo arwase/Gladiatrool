@@ -34,7 +34,7 @@ public class ObjectTemplate {
     private long sold;
     private int avgPrice;
     private int points, newPrice;
-    private int money=0;
+    private int money=-1;
     private ArrayList<ObjectAction> onUseActions;
 
     public String toString() {
