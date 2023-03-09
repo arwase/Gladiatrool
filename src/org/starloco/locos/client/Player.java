@@ -3215,8 +3215,7 @@ public class Player {
                 deleteGladiaWeapon = true;
             }
 
-            if (Constant.isInGladiatorDonjon(newMapID) && this.curMap.getId() != 12277) {
-
+            if (Constant.isInGladiatorDonjon(newMapID) && this.curMap.getId() != 12277 ) {
                 this.fullPDV();
                 SocketManager.GAME_SEND_wr(this, Constant.getPalierByNewMap(this.curMap.getId()));
             }
@@ -3756,6 +3755,11 @@ public class Player {
             //Si mauvais TemplateID, on passe
             if (obj.getTemplate().getId() != tID)
                 continue;
+
+            if(obj.getPosition() != Constant.ITEM_POS_NO_EQUIPED) {
+                obj.setPosition(Constant.ITEM_POS_NO_EQUIPED);
+                SocketManager.GAME_SEND_OBJET_MOVE_PACKET(this, obj);
+            }
 
             if (obj.getQuantity() >= count) {
                 int newQua = obj.getQuantity() - count;
